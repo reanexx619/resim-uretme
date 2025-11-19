@@ -21,7 +21,7 @@ function App() {
 
       <footer className="py-4 px-4 sm:px-6 border-t">
         <div className="container mx-auto text-center text-sm text-muted-foreground">
-          Codeland tarafından yapıldı. Powered by Hugging Face & Vite. Built by Bolt.
+          Codeland tarafından yapıldı.
         </div>
       </footer>
     </div>
